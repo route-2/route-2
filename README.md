@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+FrontEnd+Developer;BlockChain+Enthusiast;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+FrontEnd+Developer+&+Blockchain+Enthusiast;
+Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
 
 <h3>Profile Visits</h3>
 
@@ -11,7 +12,6 @@
 
 |  Projects|Hackathons|
 |-----------|---------|
-
 | CrossX | Winner CoinDCX Ventures Track at Warpspeed |
 | OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
 | NFT Aggregator | Encode Club Hackathon |
@@ -30,7 +30,7 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/ruthu-rao-b28116212-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="ruthu-rao-b28116212"  /></a>
+  <a href="https://www.linkedin.com/in/ruthu-rao-b28116212/" target="blank"><img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruthu-rao-b28116212"  /></a>
   <a href="https://twitter.com/RuthuRao" target="blank"><img align="center" src="https://img.shields.io/badge/RuthuRao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="RuthuRao"  /></a>
  
 </p>
