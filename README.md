@@ -1,9 +1,9 @@
-<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+FrontEnd+Developer;Blockchain+Enthusiast;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%36BCF7FF&vCenter=true&lines=A+Passionate+FrontEnd+Developer;Blockchain+Enthusiast;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
 
 <h3>Profile Visits</h3>
 
