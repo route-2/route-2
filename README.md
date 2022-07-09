@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+FrontEnd+Developer+and+a+Blockchain+Enthusiast;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+FrontEnd+Developer+&+Blockchain+Enthusiast;
+Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
 
 <h3>Profile Visits</h3>
 
@@ -16,8 +17,8 @@
 | OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
 | NFT Aggregator | Encode Club Hackathon |
 | FlatFinder | Mern Stack  |
- | Harbour | Solana Hacker House |
- | ReKarma-BramhaFiReact | WarpSpeed |
+| Harbour | Solana Hacker House |
+| ReKarma-BramhaFiReact | WarpSpeed |
 
 - 🌱 I’m currently learning **Graph Protocol,Solidity,Lens Protocol, zkSnark**
 
