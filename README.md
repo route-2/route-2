@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://dribbble.com/shots/9807002-Funny-cat-with-his-moving-tail" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
 
