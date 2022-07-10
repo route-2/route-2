@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Blockchain and Front-end**
 
-- ⚡ Fun fact: There is no place like concat(Coffee ☕, Rain and Window)
+- ⚡ Fun fact: there is no place like concat(Coffee ☕, Rain and Window)
 
 - 📫 How to reach me **ruthurao@gmail.com**
 
