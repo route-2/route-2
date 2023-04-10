@@ -15,7 +15,7 @@
 | OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
 | NFT Aggregator | Encode Club Hackathon |
 | FlatFinder | Mern Stack  |
-| Harbour | Solana Hacker House |
+| ShareLock | EthIndia Fellowship |
 | ReKarma-BramhaFiReact | WarpSpeed |
 | FileCoin-Destructuring  IPFS  | Bounty Winner |
 | E-notary | CoinSwitch Hackathon |
