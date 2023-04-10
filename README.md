@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Graph Protocol,Solidity,Lens Protocol, zkSnark**
 
-- 💬 Ask me about **Blockchain and Front-end**
+- 💬 Ask me about **Cryptography, Blockchain and Web-Dev**
 
 - ⚡ fact: turning caffeine into code 
 
