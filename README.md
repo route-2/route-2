@@ -15,10 +15,11 @@
 | OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
 | NFT Aggregator | Encode Club Hackathon |
 | FlatFinder | Mern Stack  |
-| ShareLock | EthIndia Fellowship |
+| ShareLock | EthIndia Fellowship 2023 |
 | ReKarma-BramhaFiReact | WarpSpeed |
 | FileCoin-Destructuring  IPFS  | Bounty Winner |
-| E-notary | CoinSwitch Hackathon |
+| E-notary | CoinSwitch Hackathon 2022 |
+| Asap.Finance | ETHINDIA Hackathon 2022 |
 | Salaried3 | (Polygon & EPNS Pool Prize) Unfold 2022 |
 
 - 🌱 I’m currently learning **Graph Protocol,Solidity,Lens Protocol, zkSnark**
@@ -55,6 +56,7 @@
   ![ChakraUi](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%6DA55F?style=for-the-badge&logo=javascript&logoColor=white)
