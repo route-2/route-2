@@ -41,7 +41,7 @@
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 
-<a href="https://leetcode.com/ruthurao" target="blank"><img align="center" src="https://img.shields.io/badge/ruthurao-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="ruthurao"/></a>
+<a href="https://leetcode.com/route2/" target="blank"><img align="center" src="https://img.shields.io/badge/ruthurao-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="ruthurao"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
