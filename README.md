@@ -63,7 +63,7 @@
   ![Circom](https://img.shields.io/badge/circom-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-90%25-brightgreen)
+  [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
 
