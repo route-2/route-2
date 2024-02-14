@@ -21,6 +21,7 @@
 | E-notary | CoinSwitch Hackathon 2022 |
 | Asap.Finance | ETHINDIA Hackathon 2022 |
 | Salaried3 | (Polygon & EPNS Pool Prize) Unfold 2022 |
+| Passync | (Safe and Base Top 3) ETHIndia 2023 |
 
 - 🌱 I’m currently learning **Graph Protocol,Solidity,Lens Protocol, zkSnark**
 
