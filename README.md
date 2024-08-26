@@ -23,7 +23,7 @@
 | Salaried3 | (Polygon & EPNS Pool Prize) Unfold 2022 |
 | Passync | (Safe and Base Top 3) ETHIndia 2023 |
 
-- 🌱 I’m currently learning **Solidity and Go**
+- 🌱 I’m currently learning **Java and Go**
 
 - 💬 Ask me about **Cryptography, Blockchain and Web-Dev**
 
