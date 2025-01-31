@@ -23,7 +23,7 @@
 | Salaried3 | (Polygon & EPNS Pool Prize) Unfold 2022 |
 | Passync | (Safe and Base Top 3) ETHIndia 2023 |
 
-- 🌱 I’m currently learning **Java and Go**
+- 🌱 I’m currently learning **Crypto, AI, Distributed systems and Computer architecture**
 
 - 💬 Ask me about **Cryptography, Blockchain and Web-Dev**
 
@@ -65,6 +65,19 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
+ [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+ [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+ [![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)](https://en.wikipedia.org/wiki/Assembly_language)
+ [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+ [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+ [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+ [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+ [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+ [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+ [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+ 
+
+
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
 
