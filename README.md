@@ -5,9 +5,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%36BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Opensource+Contributor)](https://git.io/typing-svg)
 
-<h3>Profile Visits</h3>
+![](https://komarev.com/ghpvc/?username=route-2&label=Visitors&color=brightgreen&style=flat-square)
 
-![Visitor Count](https://profile-counter.glitch.me/route-2/count.svg)
+
+
 
 |  Projects|Hackathons|
 |-----------|---------|
