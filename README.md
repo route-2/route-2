@@ -10,21 +10,26 @@
 
 
 
-|  Projects|Hackathons|
-|-----------|---------|
-| CrossX | Winner CoinDCX Ventures Track at Warpspeed |
-| OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
-| NFT Aggregator | Encode Club Hackathon |
-| FlatFinder | Mern Stack  |
-| ShareLock | EthIndia Fellowship 2023 |
-| ReKarma-BramhaFiReact | WarpSpeed |
-| FileCoin-Destructuring  IPFS  | Bounty Winner |
-| E-notary | CoinSwitch Hackathon 2022 |
-| Asap.Finance | ETHINDIA Hackathon 2022 |
-| Salaried3 | (Polygon & EPNS Pool Prize) Unfold 2022 |
-| Passync | (Safe and Base Top 3) ETHIndia 2023 |
+## Projects | Hackathons
 
-- 🌱 I’m currently learning **Crypto, AI, Distributed systems and Computer architecture**
+| Project | Recognition / Description |
+|--------|----------------------------|
+| **NAFLD  Temporal Modeling Tool ** | Rules-based time-series ML system for non-alcoholic fatty liver disease risk modeling using longitudinal clinical data |
+| **Drug-Induced Liver Injury (DILI) Prediction App** | Hybrid rule-based + ML system (Hy’s Law, LSTM, Transformers) deployed via backend APIs |
+| **MealPal  Bot** | AI-powered meal planning bot with RAG, OCR, Kroger OAuth, and automated cart ordering |
+| **CrossX** | Winner – CoinDCX Ventures Track at Warpspeed |
+| **OFFSwap** | 1st Runner-Up – CoinDCX Ventures Track at Warpspeed |
+| **Passync** | Top 3 – Safe and Base at ETHIndia 2023 |
+| **ShareLock** | ETHIndia Fellowship 2023 |
+| **NFT Aggregator** | Encode Club Hackathon |
+| **Filecoin – Destructuring IPFS** | Bounty Winner |
+| **ReKarma – BrahmaFiReact** | Warpspeed |
+| **Asap.Finance** | ETHIndia Hackathon 2022 |
+| **Salaried3** | Polygon & EPNS Pool Prize – Unfold 2022 |
+| **E-Notary** | CoinSwitch Hackathon 2022 |
+| **FlatFinder** | MERN Stack |
+
+- 🌱 I’m currently working on **Healthcare in AI, Distributed systems and Computer architecture**
 
 - 💬 Ask me about **Cryptography, Blockchain and Web-Dev**
 
