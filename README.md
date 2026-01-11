@@ -14,7 +14,7 @@
 
 | Project | Recognition / Description |
 |--------|----------------------------|
-| **NAFLD  Temporal Modeling Tool ** | Rules-based time-series ML system for non-alcoholic fatty liver disease risk modeling using longitudinal clinical data |
+| **NAFLD  Temporal Modeling Tool** | Rules-based time-series ML system for non-alcoholic fatty liver disease risk modeling using longitudinal clinical data |
 | **Drug-Induced Liver Injury (DILI) Prediction App** | Hybrid rule-based + ML system (Hy’s Law, LSTM, Transformers) deployed via backend APIs |
 | **MealPal  Bot** | AI-powered meal planning bot with RAG, OCR, Kroger OAuth, and automated cart ordering |
 | **CrossX** | Winner – CoinDCX Ventures Track at Warpspeed |
