@@ -40,11 +40,11 @@
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruthurao/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Ruthu Rao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ruthu Rao LinkedIn" />
+ <a href="https://www.linkedin.com/in/ruthurao/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Ruthu%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/RuthuRao" target="blank">
-    <img align="center" src="https://img.shields.io/badge/RuthuRao-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Ruthu Rao Twitter" />
+  <a href="https://twitter.com/RuthuRao" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.shields.io/badge/Twitter-@RuthuRao-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   <a href="https://www.ruthurao.com/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ruthu Rao Portfolio" />
