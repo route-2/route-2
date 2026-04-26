@@ -1,11 +1,6 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/SakshiUppoor/SakshiUppoor/main/cat.gif" height="175px"/></a></h1>
-
 <h1 align="center">Hi 👋, I'm Ruthu Rao </h1>
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%36BCF7FF&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Opensource+Contributor)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=route-2&label=Visitors&color=brightgreen&style=flat-square)
 
 
 
