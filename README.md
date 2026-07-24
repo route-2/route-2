@@ -12,7 +12,7 @@ Building production systems: applied AI models → backend infrastructure → de
 
 **[MealPal Bot](https://github.com/route-2/meal-plan-be)** — Python RAG backend + NestJS orchestration (OCR, OAuth, Kroger integration)
 
-**NAFLD Temporal Modeling** — Time-series ML system for longitudinal clinical data
+**NAFLD Temporal Modeling** — Time-series ML system for longitudinal clinical data *(notebooks hosted in a private cloud)*
 
 **[ShareLock](https://devfolio.co/projects/sharelock-a43e)** — Shamir's Secret Sharing, MPC-based recovery (published NPM: `mpc-zksnap`)
 
