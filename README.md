@@ -14,6 +14,10 @@ Building production systems: applied AI models → backend infrastructure → de
 
 **NAFLD Temporal Modeling** — Time-series ML system for longitudinal clinical data *(notebooks hosted in a private cloud)*
 
+**[LoRA vs QLoRA Benchmark Harness](https://github.com/route-2/lora)** — Config-driven fine-tuning comparison tool: PEFT/TRL/bitsandbytes, cost/VRAM/latency tracking, ROUGE + LLM-as-judge eval
+
+**[NAFLD Wiki](https://github.com/route-2/nafld-wiki)** — Ingests clinical papers, CSVs, and documents into a validated knowledge base for NAFLD/DILI research, with evaluation against ground truth before retrieval
+
 **[ShareLock](https://devfolio.co/projects/sharelock-a43e)** — Shamir's Secret Sharing, MPC-based recovery (published NPM: `mpc-zksnap`)
 
 | Hackathon Wins | |
